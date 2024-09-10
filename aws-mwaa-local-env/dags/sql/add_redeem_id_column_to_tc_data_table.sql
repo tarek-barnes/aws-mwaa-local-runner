@@ -1,0 +1,2 @@
+ALTER TABLE tc_data
+ADD COLUMN redeemid BIGINT;
